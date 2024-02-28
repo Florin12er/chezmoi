@@ -1,0 +1,4 @@
+{"timestamp":86584,"category":"nimbus_events","name":"enroll_failed","extra":{"experiment":"rollout-of-share-of-voice-for-sponsored-topsites","reason":"feature-conflict"}}
+{"timestamp":86593,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers","reason":"invalid-feature","feature":"accessibilityCache"}}
+{"timestamp":116028,"category":"nimbus_events","name":"enroll_failed","extra":{"reason":"feature-conflict","experiment":"rollout-of-share-of-voice-for-sponsored-topsites"}}
+{"timestamp":116033,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers","reason":"invalid-feature"}}
